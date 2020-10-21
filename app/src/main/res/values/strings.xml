@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BurekOS</string>
+    <string name="prijava">Prijava</string>
+    <string name="email">Email</string>
+    <string name="lozinka">Lozinka</string>
+    <string name="registracija">Registracija</string>
+    <string name="burek">BurekOS</string>
+    <string name="close">Close</string>
+    <string name="ocjena">Ocjeni</string>
+    <string name="potvrda">Potvrdi</string>
+</resources>

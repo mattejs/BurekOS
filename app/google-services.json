@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410783169707",
+    "firebase_url": "https://burekos1-720bc.firebaseio.com",
+    "project_id": "burekos1-720bc",
+    "storage_bucket": "burekos1-720bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410783169707:android:973698a4cab39c29",
+        "android_client_info": {
+          "package_name": "com.example.burekos1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410783169707-9rhebp7suk3lc2nqjfevj5pv33i8gjvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.burekos1",
+            "certificate_hash": "30f4455f7c7a7fde55f05856b33d557cd0de5c40"
+          }
+        },
+        {
+          "client_id": "410783169707-solqhs85jpmpi093v631b5ig0aih7mlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jyMqgoPUFvNni4Z5tL_gbYssOznJTdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410783169707-solqhs85jpmpi093v631b5ig0aih7mlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
